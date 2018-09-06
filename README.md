@@ -1,4 +1,3 @@
 # helloworld
 test repo
-Zitong Zhou
-zitongzhou1999@gmail.com
+Zitong Zhou zitongzhou1999@gmail.com :coffee
